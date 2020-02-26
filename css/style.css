@@ -148,7 +148,7 @@ i:before {
 }
 
 .l_title {
-  padding-bottom: 55px;
+  padding-bottom: 11px;
 }
 
 .l_title img {
@@ -165,7 +165,7 @@ i:before {
 }
 
 .l_title h2 {
-  font-size: 48px;
+  font-size: 35px;
   color: #0b1033;
   font-family: 'Roboto', sans-serif;
   font-weight: 500;
@@ -349,6 +349,7 @@ i:before {
   position: relative;
   z-index: 3;
   overflow: hidden;
+  padding-top: 30px;
 }
 
 .banner_area:before {
@@ -357,8 +358,8 @@ i:before {
   position: absolute;
   right: 0px;
   top: 0px;
-  height: 100%;
-  max-width: 1233px;
+  height: 50%;
+  max-width: 1200px;
   width: 100%;
 }
 
@@ -1226,6 +1227,7 @@ i:before {
   width: calc(50% - 160px);
   float: left;
   position: relative;
+  padding-top: 10px;
 }
 
 /* .flip-img .flip-img-sub {
@@ -2608,3 +2610,6 @@ i:before {
 /*---------------------------------------------------- */
 
 /*# sourceMappingURL=style.css.map */
+.service-types {
+  padding-top: 2px;
+}
