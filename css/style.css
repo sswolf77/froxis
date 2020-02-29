@@ -1224,7 +1224,7 @@ i:before {
 } */
 
 .best_3d_area .left_3d {
-  width: calc(50% - 160px);
+  width: calc(50% - 200px);
   float: left;
   position: relative;
   padding-top: 10px;
@@ -1253,7 +1253,7 @@ i:before {
 }
 
 .best_3d_area .right_text {
-  width: calc(50% + 160px);
+  width: calc(50% + 180px);
   float: right;
 }
 
