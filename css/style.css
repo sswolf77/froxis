@@ -1914,7 +1914,13 @@ i:before {
 }
 
 .portfolio_filter {
-  padding: 95px 0px 130px 0px;
+  /* padding: 95px 0px 130px 0px; */
+  display: flex;
+  justify-content: center;
+  padding-top: 20px;
+  padding-bottom: 30px;
+  /* border-bottom: #ccc;
+  border-width: 1px; */
 }
 
 .portfolio_filter ul li {
