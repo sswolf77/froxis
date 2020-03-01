@@ -1956,15 +1956,15 @@ i:before {
 }
 
 .ms_portfolio_inner {
-  overflow: hidden;
+  /* overflow: hidden; */
 }
 
 .ms_portfolio_inner .ms_p_item {
-  float: left;
+  /* float: right; */
 }
 
 .ms_portfolio_inner .ms_p_item img {
-  width: 100%;
+  /* width: 100%; */
 }
 
 /* End Portfolio Area css
@@ -2666,4 +2666,15 @@ i:before {
 .src-platform:hover {
   background-position: right center;
   color: #fff;
+}
+
+.tab-content {
+  margin-top: 60px;
+  margin-bottom: 80px;
+}
+
+.src-logo {
+  display: flex !important;
+  flex-wrap: wrap !important;
+  justify-content: space-around !important;
 }
